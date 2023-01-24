@@ -1,2 +1,2 @@
 # Final-project
- My final project from the software testing course
+ Final project materials for my Software development academy tester course One of my main task in the gfroup was 
